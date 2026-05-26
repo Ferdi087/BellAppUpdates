@@ -1,0 +1,11 @@
+Version 1.2.0
+
+Neu:
+- Theme Shop
+- Theme Loader
+
+Verbessert:
+- Themes loading
+
+Behoben:
+- Fehler bei Benachrichtigungen
